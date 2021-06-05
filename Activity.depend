@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1622851546 source:c:\users\lucas\onedrive\documentos\codeblocks projects\activity\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	<time.h>
+
